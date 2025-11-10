@@ -42,6 +42,11 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo ou estou aprendend
 
 ---
 
+### 📚 Estudando atualmente
+<img src="https://skillicons.dev/icons?i=typescript,docker,mongodb" />
+
+---
+
 ## 💡 Meus Projetos
 
 | Projeto | Descrição | Tecnologias |

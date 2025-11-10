@@ -28,9 +28,17 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com soluções inovadora
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,vscode,github" />
-</p>
+Aqui estão algumas das tecnologias e ferramentas que utilizo ou estou aprendendo:
+
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+### 🧠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=git,vscode,github" />
+
 
 ---
 

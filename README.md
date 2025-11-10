@@ -31,19 +31,29 @@ Meu objetivo é evoluir como desenvolvedor e contribuir com soluções inovadora
 Aqui estão algumas das tecnologias e ferramentas que utilizo ou estou aprendendo:
 
 ### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### 🧠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+### 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=git,vscode,github" />
-
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+</p>
 
 ### 📚 Estudando atualmente
-<img src="https://skillicons.dev/icons?i=typescript,docker,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,docker,figma" />
+</p>
 
 ---
 
